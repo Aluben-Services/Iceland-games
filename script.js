@@ -60,14 +60,17 @@ function cc() {
   document.body.appendChild(ifrm);
 }
 function roblox() {
-  ifrm.setAttribute("src", "https://beta7.apktbg.com/uv/education/hvtrs8%2F-nmw%2Cge%2Frlcy-rmbnoz-aoppmrctkol%2F7369-rmbnoz");
+  ifrm.setAttribute(
+    "src",
+    "https://beta7.apktbg.com/uv/education/hvtrs8%2F-nmw%2Cge%2Frlcy-rmbnoz-aoppmrctkol%2F7369-rmbnoz"
+  );
   ifrm.style.width = "100%";
   ifrm.style.height = "750px";
-  document.body.appendChild(ifrm);}
+  document.body.appendChild(ifrm);
+}
 function emtpy() {
-  
-window.location.reload();
+  window.location.reload();
 }
 function discord() {
-  window.open('https://discord.gg/Jeybsy2us4')
+  window.open("https://discord.gg/Jeybsy2us4");
 }
